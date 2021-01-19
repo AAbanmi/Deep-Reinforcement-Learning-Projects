@@ -1,3 +1,8 @@
+# Project 1 (p1_navigation):
+You can find the code in folder `p1_navigation`
+
+
+
 [//]: # (Image References)
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135602-b0335606-7d12-11e8-8689-dd1cf9fa11a9.gif "Trained Agents"
