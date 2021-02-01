@@ -34,7 +34,7 @@ Episode 300	Average Score: 12.48	Highest Score: 21.0
 Episode 314	Average Score: 13.03	Highest Score: 24.0
 Environment solved in 314 episodes!	Average Score: 13.03	Highest Score: 24.0
 
-[image1]:  "Results of Project 1"
+[image1]: https://raw.githubusercontent.com/AAbanmi/Deep-Reinforcement-Learning-Projects/master/p1_navigation/Project-1-Results.png "Results of Project 1"
 
 
 ### Future improvement ideas:
