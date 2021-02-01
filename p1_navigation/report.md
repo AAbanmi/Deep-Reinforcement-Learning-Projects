@@ -28,11 +28,11 @@ All of these layers are using activation function ReLu.
 
 
 ### Plot of the results:
-Episode 100	Average Score: 4.92	Highest Score: 16.0
-Episode 200	Average Score: 8.63	Highest Score: 20.0
-Episode 300	Average Score: 12.48	Highest Score: 21.0
-Episode 314	Average Score: 13.03	Highest Score: 24.0
-Environment solved in 314 episodes!	Average Score: 13.03	Highest Score: 24.0
+- Episode 100	Average Score: 4.92	Highest Score: 16.0
+- Episode 200	Average Score: 8.63	Highest Score: 20.0
+- Episode 300	Average Score: 12.48	Highest Score: 21.0
+- Episode 314	Average Score: 13.03	Highest Score: 24.0
+- Environment solved in 314 episodes!	Average Score: 13.03	Highest Score: 24.0
 
 Plot of the results can be found in the image named "Project-1-Results.png" in this folder.
 
